@@ -8,3 +8,5 @@ This is a project for a shopping cart with DynamoDB and NodeJs.
 - Barnum Castillo
 - Fabiola Espinoza
 - Roberto Sequeira
+
+testing
