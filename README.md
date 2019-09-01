@@ -1,6 +1,8 @@
 # Key-Value
 
-This is a project for a shopping cart with DynamoDB and NodeJs.
+This is a project for a shopping cart with DynamoDB, NodeJs and Angular.
+
+# ComprARTE
 
 # Authors
 - Luis Barboza
@@ -8,5 +10,3 @@ This is a project for a shopping cart with DynamoDB and NodeJs.
 - Barnum Castillo
 - Fabiola Espinoza
 - Roberto Sequeira
-
-testing
